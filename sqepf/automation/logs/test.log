@@ -1,0 +1,12 @@
+22:49:40.355 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+22:49:40.611 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
+22:52:10.143 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+22:52:10.418 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
+22:59:52.101 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+22:59:52.524 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
+23:02:54.699 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+23:02:54.973 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
+23:12:24.388 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+23:12:24.772 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
+23:28:08.916 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: email
+23:28:09.179 [main] INFO  com.aitest.automation.AITestAutomation - Element found using strategy: By.id: pass
